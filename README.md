@@ -21,6 +21,7 @@
 | **ENVI** | 波段运算、图像分类辅助 |
 
 ##  核心成果
+<img width="3600" height="2400" alt="chongqing_study_area" src="https://github.com/user-attachments/assets/d4e41ae7-4217-4040-abaf-e585cda37ca8" />
 
 ### 1. 城区变迁特征
 - 建成区呈 **“单中心集聚→双中心拓展→多中心扩散”** 态势
