@@ -39,10 +39,10 @@
 - 热源：不透水面（NDISI）、建筑用地（NDBI）
 
 ##  文件结构
-├── code/ # GEE和R语言代码
-├── document/ # 实习报告PDF
-├── picture/ # 核心结果图片（LST图、相关性热图等）
-└── README.md # 项目说明
+- code/ # GEE和R语言代码
+- document/ # 实习报告PDF
+- picture/ # 核心结果图片（LST图、相关性热图等）
+- README.md # 项目说明
 ##  课程作业说明
 
 本项目是以下课程的实习作业：
