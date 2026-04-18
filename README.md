@@ -39,7 +39,6 @@
 - 热源：不透水面（NDISI）、建筑用地（NDBI）
 
 ##  文件结构
-chongqing-heat-island/
 ├── code/ # GEE和R语言代码
 ├── document/ # 实习报告PDF
 ├── picture/ # 核心结果图片（LST图、相关性热图等）
